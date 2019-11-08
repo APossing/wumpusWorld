@@ -1,0 +1,1 @@
+I couldn't figure out when to delete save file so I left it commented out in the destructor. This seems to be called every trial even though it doesnt look like that should happen in the wumpus world code.
